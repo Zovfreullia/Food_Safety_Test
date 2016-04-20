@@ -1,7 +1,7 @@
 // Decision Trees
 // Wildlife Management
-// TOTAL QUESTIONS: 9
-// TOTAL DECISIONS: 18
+// TOTAL QUESTIONS: 8
+// TOTAL DECISIONS: 16
 // aw = agricultural water
 var aw_title = "Agricultural Water for Production";
 var aw_answer; // 0 == false and 1 == true

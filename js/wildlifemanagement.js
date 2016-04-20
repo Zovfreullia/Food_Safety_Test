@@ -2,7 +2,7 @@
 // Wildlife Management
 // TOTAL QUESTIONS: 9
 // TOTAL DECISIONS: 18
-// wa = land use
+// wa = wildlife management
 var wa_title = "Wildlife and Animal Management";
 var wa_answer; // 0 == false and 1 == true
 var wa_questionIndex = 0; // index for the questions
